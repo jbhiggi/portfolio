@@ -1,6 +1,9 @@
 # Jack Higginson – Project Portfolio
 
-A top-level repo that summarizes my Astrophysics and Finance repos.
+
+Hi, I’m Jack — an astrophysics PhD student exploring applications of advanced statistical and ML techniques to both astrophysics and financial markets.
+
+This is a top-level repo that summarizes my Astrophysics and Finance repos.
 
 
 ## 🪐 Astrophysics Projects
