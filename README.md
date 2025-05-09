@@ -7,7 +7,7 @@ This is a top-level repo that summarizes my Astrophysics and Finance repos.
 
 
 ## 🪐 Astrophysics Projects
-- [Catalogue Completeness Package](coming soon)
+- [Catalogue Completeness Package](https://github.com/jbhiggi/Completeness-Correction-for-Quasar-Spectra.git)
 - [Automated doublet search](coming soon)
 
 ## 💹 Financial Machine Learning
